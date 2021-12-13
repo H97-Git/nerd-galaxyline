@@ -13,22 +13,18 @@ and have numerous changes been made in the appearance.
 
 - ❌ Removed : <s>Support `coc.nvim` diagnostic information report.</s>
 - ❌ Removed : <s>FileFormat</s>
-- ✅ Replaced : The name of the current LSP. (Is it possible to cycle through multiple LSP ?)
+- ✅ Replaced by : The name of the current LSP. (Is it possible to cycle through multiple LSP ?)
 - Full nerdfont icons.
 - Looks well with vim-deus themes.
 - Support automatic truncation of status text
 - **Added support for [onedark](https://github.com/joshdick/onedark.vim)** ( [First tint of #282C34](https://www.color-hex.com/color/282c34) )
-- Short line support
-- **Added support for [CHADTree](https://github.com/joshdick/onedark.vim)**
 
 **New :**
-<img align="right" width="45%" src="./image/nerd-galaxyline-onedark.png"/>
+<img align="right" width="100%" src="./image/nerd-galaxyline-onedark.png"/>
 
 - Now support different color scheme and will change background color automatically.
 
   Currently supported theme:
-
-<img align="right" width="65%" src="https://user-images.githubusercontent.com/30021675/134806451-ac360666-70da-431f-8746-a086facfeaaf.png"/>
 
 ```text
     * ever forest
@@ -37,7 +33,11 @@ and have numerous changes been made in the appearance.
     * onedark
 ```
 
-![image](./image/short-line.png)
+- Short line support
+- **Added support for [CHADTree](https://github.com/joshdick/onedark.vim)** (+ minor colors changes
+  )
+
+![image](./image/short-line2.png)
 
 ## Requirement
 

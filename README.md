@@ -14,8 +14,8 @@ and have numerous changes been made in the appearance.
 - ❌ Removed : <s>Support `coc.nvim` diagnostic information report.</s>
 - ❌ Removed : <s>FileFormat</s>
 - ✅ Replaced by : The name of the current LSP. (Is it possible to cycle through multiple LSP ?)
+- ❌ Removed `check_git_workspace` Replaced by ✅ `get_git_dir` : [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim/blob/main/lua/galaxyline/provider_vcs.lua)
 - Full nerdfont icons.
-- Looks well with vim-deus themes.
 - Support automatic truncation of status text
 - **Added support for [onedark](https://github.com/joshdick/onedark.vim)** ( [First tint of #282C34](https://www.color-hex.com/color/282c34) )
 

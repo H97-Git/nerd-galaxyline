@@ -50,7 +50,7 @@ Using [vim-plug]()
 
 ```
 Plug 'glepnir/galaxyline.nvim'
-Plug 'H97-Git/nerd-galaxyline'
+Plug 'H97-Git/nerd-galaxyline-onedark'
 ```
 
 ## License

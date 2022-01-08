@@ -1,9 +1,13 @@
 # Fork of [nerd-galaxyline](https://github.com/Avimitin/nerd-galaxyline)
 
+
+**New :**
+
+<img align="right" width="100%" src="./image/nerd-galaxyline-onedark.png"/>
+
 **Unmodified :**
 
 ![IMG](./image/nerd-galaxyline.png)
-
 nerd-galaxyline is a modern and great-looking status bar theme for
 [galaxyline](https://github.com/glepnir/galaxyline.nvim). Forked from
 [evilline](https://github.com/LoydAndrew/nvim/blob/main/evilline.lua)
@@ -19,20 +23,15 @@ and have numerous changes been made in the appearance.
 - Support automatic truncation of status text
 - **Added support for [onedark](https://github.com/joshdick/onedark.vim)** ( [First tint of #282C34](https://www.color-hex.com/color/282c34) )
 
-**New :**
-<img align="right" width="100%" src="./image/nerd-galaxyline-onedark.png"/>
-
 - Now support different color scheme and will change background color automatically.
-
+- 
   Currently supported theme:
-
 ```text
     * ever forest
     * deus
     * gruvbox
     * onedark
 ```
-
 - Short line support
 - **Added support for [CHADTree](https://github.com/joshdick/onedark.vim)** (+ minor colors changes
   )
